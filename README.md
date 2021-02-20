@@ -13,6 +13,7 @@ We use the ECG5000 dataset, as well as the MIT-BIH dataset for comparing three D
 
 ### Python libraries used
 + Numpy
++ Pandas
 + TensorFlow/Keras
 + Scikit-learn
 + tqdm
