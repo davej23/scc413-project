@@ -1,5 +1,5 @@
 # SCC413 University Project
-Classification of ECG samples using Deep Learning techniques
+Classification of ECG samples using Deep Neural Networks
 
 # Background
 
